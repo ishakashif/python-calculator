@@ -13,7 +13,7 @@ elif operator == "-":
     print(round(result, 3))
 elif operator == '*':
     result = num1 * num2
-    print(round(result))
+    print(round(result, 3))
 elif operator == "/":
     result = num1 / num2
     print(round(result))
