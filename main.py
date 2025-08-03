@@ -13,4 +13,4 @@ elif operator == "-":
 elif operator == '*':
     result = num1 * num2
 elif operator == "/":
-    psdd
+    result = num1 / num2
